@@ -1,4 +1,4 @@
-# 👨‍💻 My Project Portfolio
+# 👨‍💻 Project Portfolio
 
 Welcome to my GitHub!
 
